@@ -12,3 +12,5 @@ More changes from test-nate.
 Quick diff test.
 
 First branch test.
+
+Adding code without conflict to README.
