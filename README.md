@@ -14,3 +14,5 @@ Quick diff test.
 First branch test.
 
 Adding code without conflict to README.
+
+This text is added from Regular Nate and will conflict.
